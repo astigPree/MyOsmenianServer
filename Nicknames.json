@@ -1,0 +1,42 @@
+{
+  "male" : [
+    "Romeo",
+    "Adam" ,
+    "Jack" ,
+    "Mickey",
+    "Tom",
+    "Scobby",
+    "Woddy",
+    "Spongebob",
+    "Sugar",
+    "Honey",
+    "Sweetie",
+    "Love" ,
+    "Babe" ,
+    "Darling",
+    "Snugglebug",
+    "Lovebug",
+    "Honey",
+    "Sweetheart"
+  ] ,
+  "female" : [
+    "Juliet",
+    "Eve" ,
+    "Rose",
+    "Minnie",
+    "Jerry",
+    "Shaggy",
+    "Buzz",
+    "Patrick",
+    "Spice",
+    "Bear",
+    "Pie",
+    "Dove",
+    "Baby",
+    "Dearest",
+    "Cuddlebug",
+    "Honeybee",
+    "Honeypot",
+    "Sweetie pie"
+  ]
+}
